@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- ⚡**Code never lies, comments sometimes do.** – Ron Jeffries
+- ⚡"**Code never lies, comments sometimes do.**" – Ron Jeffries
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
