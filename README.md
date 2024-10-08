@@ -2,7 +2,7 @@
 <h3 align="center">
     A passionate Software Engineering student from Morocco 
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg" alt="Drapeau du Maroc" style="width: 30px; height: auto; vertical-align: middle;" />
-    ✨
+    
 </h3>
 
 
