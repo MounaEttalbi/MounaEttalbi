@@ -14,6 +14,8 @@
 
 - 🌱 I’m currently learning **Angular**
 
+- 🎯**Strive for continuous improvement, instead of perfection.**
+
 - ⚡"**Code never lies, comments sometimes do.**" – Ron Jeffries
 
 <h3 align="left">Connect with me:</h3>
