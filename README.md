@@ -12,7 +12,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mounaettalbi&label=Profile%20views&color=0e75b6&style=flat" alt="mounaettalbi" /> </p>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Angular**
 
 - ⚡"**Code never lies, comments sometimes do.**" – Ron Jeffries
 
